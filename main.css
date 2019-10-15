@@ -1,0 +1,17 @@
+button{
+    background-color: lightskyblue;
+    height: 60px;
+    width : 200px;
+    transition-delay: 2s;
+    transition-property: backgroundd-color;
+}
+button:hover{
+    background-color: darkcyan;
+    height: 80px;
+    width: 220px;
+}
+.name{
+    border-style:dotted;
+    border-width: 10px;
+    border-color: orange;
+}
