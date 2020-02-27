@@ -1,14 +1,17 @@
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 button{
-    background-color: lightskyblue;
+    background-color: rgb(157, 243, 168);
     height: 60px;
     width : 200px;
     transition-delay: 2s;
     transition-property: backgroundd-color;
+    border-radius: 13px;
 }
 button:hover{
-    background-color: darkcyan;
-    height: 65px;
-    width: 205px;
+    background-color: rgb(152, 180, 107);
+    cursor: pointer;
 }
 .name{
     border-style:dotted;
