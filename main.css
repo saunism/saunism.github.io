@@ -22,3 +22,12 @@ button:hover{
     font-size: 10;
     font-weight: 600;
 }
+.images{
+    border-radius: 13px;
+    width: 60%;
+    margin-top: 50px;
+    transition: all 0.3s;
+}
+.images:hover{
+    width: 80%;
+}
